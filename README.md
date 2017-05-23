@@ -1,12 +1,12 @@
-#Log Report Generator
+# Log Report Generator
 
 Hello and welcome to the log report generator! This is a small project for the udacity fullstack nanodegree. I tried to make it as flexible for future modification as possible, which is my my python functions include arguments, and the SQL views contain more data than necessary.
 
-##Setting up your views
+## Setting up your views
 
 Please create the following views in the news database to make sure your the log report generator works properly!
 
-###Required views
+### Required views
 
 Top Articles
 ```
@@ -29,7 +29,7 @@ FROM log
 GROUP BY day, status;
 ```
 
-###Optional views
+### Optional views
 You can also add this view which lets you see the sum of the request statuses grouped by day and status type. This is not required but may be usedful in future anaysis of this data.
 ```
 CREATE VIEW log_status_sums_by_day AS SELECT date_trunc('day', time) AS day, status, COUNT(*) AS num 
