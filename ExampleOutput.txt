@@ -1,0 +1,26 @@
+ _                  ______                      _
+| |                 | ___ \                    | |
+| |     ___   __ _  | |_/ /___ _ __   ___  _ __| |_
+| |    / _ \ / _` | |    // _ \ '_ \ / _ \| '__| __|
+| |___| (_) | (_| | | |\ \  __/ |_) | (_) | |  | |_
+\_____/\___/ \__, | \_| \_\___| .__/ \___/|_|   \__|
+              __/ |           | |
+             |___/            |_|                   
+
+This report was created on 2017-05-23 at 03:41:35
+
+The top three articles are:
+Title: Candidate is jerk, alleges rival		Views: 338647
+Title: Bears love berries, alleges bear		Views: 253801
+Title: Bad things gone, say good people		Views: 170098
+
+
+Article authors, sorted from most popular to least:
+Name: Ursula La Multa			Views: 507594
+Name: Rudolf von Treppenwitz			Views: 423457
+Name: Anonymous Contributor			Views: 170098
+Name: Markoff Chaney			Views: 84557
+
+
+All dates when more than 1% of requeses led to errors:
+date: July 17, 2016			percent: 0.0226268624680273

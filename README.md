@@ -1,1 +1,0 @@
-# udacity_log_project
